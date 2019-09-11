@@ -1,0 +1,371 @@
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                     0-0                      10
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+9                      1-1                       9
+.................................................. 
+
+
+P1 bets 3 coins. P2 decides to fold.
+==============================================================================
+
+WINNER AT THE TABLE: P1
+
+==============================================================================
+P1 Full Hand: [[3,spade],[8,club],[8,spade],[jack,club],[3,diamond]]
+P1 Face up Cards: [[3,spade],[8,club],[8,spade]]
+P1 Best Hand: TWO PAIR, Rank: 8
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: P1
+
+==============================================================================
+P2 Full Hand: [[5,heart],[queen,diamond],[3,heart],[6,diamond],[5,diamond]]
+P2 Face up cards: [[5,heart],[queen,diamond],[3,heart]]
+P2 Best Hand: ONE PAIR, Rank: 9
+P2's estimated heuristic rank for P1: 9
+Chance of winning: Cannot Say!
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P1
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+11                      0-0                      9
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                      1-1                      8
+.................................................. 
+
+
+P1 bets 1 coins. P2 raises the bet and put 3 coins on table.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+9                      2-4                       5
+.................................................. 
+
+
+P1 decides not to match the increased bet and folds.
+==============================================================================
+
+WINNER AT THE TABLE: P2
+
+==============================================================================
+P1 Full Hand: [[5,spade],[7,spade],[king,heart],[4,club],[king,spade]]
+P1 Face up Cards: [[5,spade],[7,spade],[king,heart]]
+P1 Best Hand: ONE PAIR, Rank: 9
+P1's estimated heuristic rank for P2: 9.0
+Chance of winning: Cannot Say!
+
+==============================================================================
+P2 Full Hand: [[jack,spade],[8,spade],[queen,spade],[ace,spade],[ace,diamond]]
+P2 Face up cards: [[jack,spade],[8,spade],[queen,spade]]
+P2 Best Hand: ONE PAIR, Rank: 9
+P2's estimated heuristic rank for P1: 10
+Chance of winning: P2
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P2
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+9                      0-0                      11
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+8                      1-1                      10
+.................................................. 
+
+
+P1 bets 2 coins. P2 decides to fold.
+==============================================================================
+
+WINNER AT THE TABLE: P1
+
+==============================================================================
+P1 Full Hand: [[5,club],[queen,club],[9,diamond],[8,club],[10,heart]]
+P1 Face up Cards: [[5,club],[queen,club],[9,diamond]]
+P1 Best Hand: NO PAIR, Rank: 10
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: Cannot Say!
+
+==============================================================================
+P2 Full Hand: [[6,heart],[7,diamond],[10,club],[3,spade],[ace,heart]]
+P2 Face up cards: [[6,heart],[7,diamond],[10,club]]
+P2 Best Hand: NO PAIR, Rank: 10
+P2's estimated heuristic rank for P1: 10
+Chance of winning: Cannot Say!
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P1
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                     0-0                      10
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+9                      1-1                       9
+.................................................. 
+
+
+P2 decides to fold
+
+==============================================================================
+
+WINNER AT THE TABLE: P1
+
+==============================================================================
+P1 Full Hand: [[6,club],[10,club],[10,diamond],[6,spade],[8,diamond]]
+P1 Face up Cards: [[6,club],[10,club],[10,diamond]]
+P1 Best Hand: TWO PAIR, Rank: 8
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: P1
+
+==============================================================================
+P2 Full Hand: [[king,diamond],[8,heart],[ace,diamond],[7,diamond],[9,spade]]
+P2 Face up cards: [[king,diamond],[8,heart],[ace,diamond]]
+P2 Best Hand: NO PAIR, Rank: 10
+P2's estimated heuristic rank for P1: 9
+Chance of winning: P1
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P1
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+11                      0-0                      9
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                      1-1                      8
+.................................................. 
+
+
+P2 decides to fold
+
+==============================================================================
+
+WINNER AT THE TABLE: P1
+
+==============================================================================
+P1 Full Hand: [[4,heart],[3,spade],[3,diamond],[queen,heart],[queen,club]]
+P1 Face up Cards: [[4,heart],[3,spade],[3,diamond]]
+P1 Best Hand: TWO PAIR, Rank: 8
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: P1
+
+==============================================================================
+P2 Full Hand: [[6,spade],[5,heart],[3,club],[ace,heart],[7,heart]]
+P2 Face up cards: [[6,spade],[5,heart],[3,club]]
+P2 Best Hand: NO PAIR, Rank: 10
+P2's estimated heuristic rank for P1: 9
+Chance of winning: P1
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P1
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+12                      0-0                      8
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+11                      1-1                      7
+.................................................. 
+
+
+P1 bets 1 coins. P2 raises the bet and put 3 coins on table.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                      2-4                      4
+.................................................. 
+
+
+P1 decides not to match the increased bet and folds.
+==============================================================================
+
+WINNER AT THE TABLE: P2
+
+==============================================================================
+P1 Full Hand: [[3,spade],[king,heart],[9,diamond],[4,spade],[2,spade]]
+P1 Face up Cards: [[3,spade],[king,heart],[9,diamond]]
+P1 Best Hand: NO PAIR, Rank: 10
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: Cannot Say!
+
+==============================================================================
+P2 Full Hand: [[4,club],[jack,heart],[5,club],[3,heart],[3,club]]
+P2 Face up cards: [[4,club],[jack,heart],[5,club]]
+P2 Best Hand: ONE PAIR, Rank: 9
+P2's estimated heuristic rank for P1: 10
+Chance of winning: P2
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P2
+
+==============================================================================
+
+==============================================================================
+Table before start of the game:
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+10                     0-0                      10
+.................................................. 
+
+
+Game about to start, each player place 1 chip on the table to participate...
+
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+9                      1-1                       9
+.................................................. 
+
+
+P1 bets 3 coins. P2 also bets 3 coins.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+6                      4-4                       6
+.................................................. 
+
+
+P1 bets 3 coins. P2 also bets 3 coins.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+3                      7-7                       3
+.................................................. 
+
+
+P1 bets 3 coins. P2 also bets 3 coins.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+0                     10-10                      0
+.................................................. 
+
+
+Both player ran out of chips. Time to find the winner.
+==============================================================================
+
+WINNER AT THE TABLE: P1
+
+==============================================================================
+P1 Full Hand: [[8,club],[ace,heart],[6,diamond],[5,diamond],[5,club]]
+P1 Face up Cards: [[8,club],[ace,heart],[6,diamond]]
+P1 Best Hand: ONE PAIR, Rank: 9
+P1's estimated heuristic rank for P2: 10.0
+Chance of winning: P1
+
+==============================================================================
+P2 Full Hand: [[2,spade],[king,club],[4,club],[4,spade],[7,spade]]
+P2 Face up cards: [[2,spade],[king,club],[4,club]]
+P2 Best Hand: ONE PAIR, Rank: 9
+P2's estimated heuristic rank for P1: 10
+Chance of winning: P2
+
+==============================================================================
+
+WINNER OF THE GAME(BY HAND RANK): P1
+
+==============================================================================
+Game Over! A player has run out of cash.
+
+.................................................. 
+P1                    Table                     P2
+.................................................. 
+20                      0-0                      0
+.................................................. 
+
+
